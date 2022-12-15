@@ -1,0 +1,21 @@
+body{
+    background-color: beige;
+}
+
+#seletor{
+    width: 120px;
+}
+
+#nome_comp{
+    width: 220px;
+}
+
+#email{
+    width: 220px;
+}
+
+#caixa_texto{
+    width: 350px;
+    height: 200px;
+    text-align: justify;
+}
